@@ -2,4 +2,6 @@
 
 <h3> Preview </h3>
 ![image](https://user-images.githubusercontent.com/54701617/170456043-3d4d6d1a-3333-449b-a72c-f813fe3e60fc.png)
-![alt text]((https://user-images.githubusercontent.com/54701617/170456043-3d4d6d1a-3333-449b-a72c-f813fe3e60fc.png?raw=true)
+![alt text](https://user-images.githubusercontent.com/54701617/170456043-3d4d6d1a-3333-449b-a72c-f813fe3e60fc.png?raw=true)
+
+<image src="https://user-images.githubusercontent.com/54701617/170456043-3d4d6d1a-3333-449b-a72c-f813fe3e60fc.png"/>
